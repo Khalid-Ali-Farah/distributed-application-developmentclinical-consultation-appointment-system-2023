@@ -86,21 +86,37 @@ This section describes the implementation of front-end controllers, using severa
 
 ## This section describes the front end of the project, including screenshots, relations to classes, file names, and data processed by the front end.
 
-Main Page
+## Main Page
 
-Consultation Page
+![Main Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture1.png)
 
-List of Consultations Page
+## Consultation Page
 
-Prescription Page
+![Consultation Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture2.png)
 
-List of Prescriptions Page
+## List of Consultations Page
 
-Appointment Page
+![List of Consultations Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture3.png)
 
-List of Appointments Page
+## Prescription Page
 
-Reschedule Appointment Page
+![Prescription Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture4.png)
+
+## List of Prescriptions Page
+
+![List of Prescriptions Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture5.png)
+
+## Appointment Page
+
+![Appointment Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture6.png)
+
+## List of Appointments Page
+
+![List of Appointments Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture7.png)
+
+## Reschedule Appointment Page
+
+![Reschedule Appointment Page](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/e0e8f526a5efcfa67b100390447233ff7987fc03/Picture8.png)
 
 ## Conclusion
 The Clinical Consultation Appointment System significantly improves the appointment management process at the government hospital, fostering better patient-provider interactions and ultimately enhancing the overall healthcare services provided to the community.
