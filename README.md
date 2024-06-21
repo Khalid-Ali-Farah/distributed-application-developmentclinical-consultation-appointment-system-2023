@@ -124,7 +124,7 @@ The Clinical Consultation Appointment System significantly improves the appointm
 
 ## PDF Report
 
-For more detailed information, please refer to the [PDF Report](https://github.com/Khalid-Ali-Farah/workshop2-smart-parking-system-2023/blob/d84e876d48959d6f9c1f4ad0b63d449a93a6c271/Group%202%20Report.pdf).
+For more detailed information, please refer to the [PDF Report](https://github.com/Khalid-Ali-Farah/distributed-application-developmentclinical-consultation-appointment-system-2023/blob/14ab065e78c2143a15cb1f0dae7563f4b6daaeb4/DAD-Project%20Report.pdf).
 
 ## Group No: Group 21
 
