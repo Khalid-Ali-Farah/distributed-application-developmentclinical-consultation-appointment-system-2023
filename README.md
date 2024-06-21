@@ -22,44 +22,68 @@ This section outlines the project implementation structure. The project is imple
 
 ## Main Function
 Name of the main function
-REST API Files
-AppointmentMenu
-ConsultationsMenu
-PrescriptionMenu
-These files include configurations for various types of API requests (GET, POST, PUT, DELETE, EDIT). They allow developers to define API endpoints, specifying HTTP methods, required parameters, and headers.
 
-Interfaces
+REST API Files
+
+AppointmentMenu
+
+ConsultationsMenu
+
+PrescriptionMenu
+
+These files include configurations for various types of API requests (GET, POST, PUT, DELETE, EDIT). They allow developers to define API endpoints, specifying HTTP methods, required parameters, and headers. Interfaces
 The purpose of the interfaces is to define a contract or a set of rules that classes must follow, acting as a blueprint for classes.
 
 Implementation of Web Services
 This section describes the implementation of web services, including classes, web methods, Web API, and the JSON data structures from Postman.
 
 ## Appointment Methods
+
 GET: List all appointments
+
 GET: List appointment by ID
+
 POST: Create new appointment
+
 PUT: Update appointment
+
 DELETE: Delete appointment
+
 Consultation Methods
+
 GET: List all consultations
+
 GET: List consultation by ID
+
 POST: Create new consultation
+
 PUT: Update consultation
+
 DELETE: Delete consultation
+
 Prescription Methods
+
 GET: List all prescriptions
+
 GET: List prescription by ID
+
 POST: Create new prescription
+
 PUT: Update prescription
+
 DELETE: Delete prescription
 
 ## Implementation of Front-End Controllers
 This section describes the implementation of front-end controllers, using several diagrams to describe the relationship between the classes.
 
 ## Appointment: Patients make appointments to meet doctors and, if not available, reschedule new appointments.
+
 ## Consultation: Patients meet doctors for consultations, and the details are saved in the database.
+
 ## Prescription: After consultations, patients receive prescriptions, and these details are saved in the database.
+
 ## Implementation of Front-End
+
 ## This section describes the front end of the project, including screenshots, relations to classes, file names, and data processed by the front end.
 
 Main Page
